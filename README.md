@@ -1,2 +1,2 @@
-# PetShop-Ecommerce-Website
+# Pet Shop Ecommerce Website
 a fully responsive petshop ecommerce website; Responsive for all devices, made with HTML, CSS, and JS
